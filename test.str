@@ -1,0 +1,11 @@
+stringset[  10]:    6409257012972234966 0x2375358->""test.txt""
+stringset[  11]:    2762169579135187400 0x2375408->"hello"
+stringset[  13]:    4540905123118180926 0x23754a8->"testing"
+stringset[  14]:   10159970873491820195 0x2375308->"1"
+stringset[  16]:   13985887974751908322 0x23753e8->""<command-line>""
+stringset[  19]:   16216353769738537139 0x23754f8->"ok"
+stringset[  21]:    8751027807033337960 0x2375458->"world"
+                    4038071199236763861 0x23752b8->"#"
+load_factor = 0.348
+bucket_count = 23
+max_bucket_size = 2

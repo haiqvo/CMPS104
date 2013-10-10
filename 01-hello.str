@@ -1,0 +1,13 @@
+stringset[   0]:    8545990094689704659 0x6db518->"puts"
+stringset[   5]:    7995238595416485409 0x6db478->"5"
+stringset[   9]:    4551451650890805270 0x6db4c8->"2"
+                    5507954203290855274 0x6db428->""oclib.oh""
+stringset[  11]:    8149756121927264537 0x6db5b8->"world!\n");"
+stringset[  14]:   10159970873491820195 0x6db368->"1"
+stringset[  16]:   13985887974751908322 0x6db408->""<command-line>""
+stringset[  18]:   13792810190863146518 0x6db568->"("Hello,"
+stringset[  19]:    1627529861070155691 0x6db3b8->""01-hello.oc""
+stringset[  21]:    4038071199236763861 0x6db318->"#"
+load_factor = 0.435
+bucket_count = 23
+max_bucket_size = 2
