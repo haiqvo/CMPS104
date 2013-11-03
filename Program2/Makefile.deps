@@ -1,0 +1,3 @@
+main.o: main.cc auxlib.h stringset.h
+stringset.o: stringset.cc stringset.h
+auxlib.o: auxlib.cc auxlib.h
