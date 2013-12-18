@@ -1,0 +1,13 @@
+stringset[   5]:   16201016479999245389 0x1eef608->"l|1<<22-l;for(;l>7?!write(1,O,9):o--"
+stringset[   7]:   10416309483224282736 0x1eef6e8->"p*=2,q*=2;}main(){O[8]=10;Q(0,0,0);}"
+                   12932310588289915908 0x1eef598->"o=8,p=1,q=1<<"
+stringset[   9]:     342363981814211588 0x1eef4e8->"char"
+stringset[  11]:    6394191927547256076 0x1eef418->""/home/hai/Projects/CMPS104/oc-programs/90-c8q.oc""
+stringset[  14]:   10159970873491820195 0x1eef3f8->"1"
+stringset[  16]:   13985887974751908322 0x1eef468->""<command-line>""
+stringset[  18]:    9903484864913811806 0x1eef548->"O[9];Q(l,b,d){int"
+stringset[  21]:    4038071199236763861 0x1eef3a8->"#"
+stringset[  22]:   14127274073335785246 0x1eef678->";)O[l]=56-o,b&p|d&q||Q(l+1,b|p,d|q),"
+load_factor = 0.435
+bucket_count = 23
+max_bucket_size = 2

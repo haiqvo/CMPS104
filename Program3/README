@@ -1,0 +1,22 @@
+Hai Vo
+Program 3
+The goal of this part of the program is to make a parser using bison. 
+We have to make a parser.y file that correctly parses the file. 
+The parse are directed to the .ast file.
+
+How to RUN:
+make sure all of the files are in the same folder
+type "gmake all"
+now oc is created
+
+./oc -y -l [-@ flags] [-D string] program.oc
+
+-l calls the flex debug 
+-y calls the parse debug
+
+the only debug flag right now is
+-@f, a, x, and m
+
+
+
+-D is use to supress code.

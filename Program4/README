@@ -1,0 +1,21 @@
+Hai Vo
+Program 4
+The goal is to make a symbol table to maintain all of the identifiers
+in a program so that they can be looked for references.
+
+How to RUN:
+make sure all of the files are in the same folder
+type "gmake all"
+now oc is created
+
+./oc -y -l [-@ flags] [-D string] program.oc
+
+-l calls the flex debug 
+-y calls the parse debug
+
+the only debug flag right now is
+-@f, a, x, and m
+
+
+
+-D is use to supress code.

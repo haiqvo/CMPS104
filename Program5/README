@@ -1,0 +1,22 @@
+Hai Vo
+Program 5
+The goal of this part is to use the created abstract syntax 
+tree to create a low level language. Whick for this is called
+oil (the intermediate language). 
+
+How to RUN:
+make sure all of the files are in the same folder
+type "gmake all"
+now oc is created
+
+./oc -y -l [-@ flags] [-D string] program.oc
+
+-l calls the flex debug 
+-y calls the parse debug
+
+the only debug flag right now is
+-@f, a, x, and m
+
+
+
+-D is use to supress code.
